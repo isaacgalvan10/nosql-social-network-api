@@ -1,5 +1,6 @@
 # nosql-social-network-api
-Here is a link to a video walkthrough. https://www.loom.com/share/64e2d6f50531435baeee6d54b418eb5a
+
+Here is a link to a video walkthrough. https://www.loom.com/share/64ccd5d57b354ac3a8e7756acbcd67c4
 
 ## User Story
 
